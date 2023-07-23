@@ -6,3 +6,6 @@ Input:
 Output
    simple interest = p*t*r
 ---
+ sample source repository.
+
+
